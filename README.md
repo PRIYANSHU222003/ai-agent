@@ -12,3 +12,14 @@ A multi-agent Smart To-Do List application in Python.
 ## Run
 ```bash
 python main.py
+```
+
+## Parking CCTV Security System
+A standalone CCTV parking security prototype is available in `parking_cctv_system.py`.
+
+Run:
+```bash
+python parking_cctv_system.py
+```
+
+It supports camera heartbeats, slot occupancy events, unauthorized reserved-slot detection, overstay alerts, and offline camera monitoring.
